@@ -14,8 +14,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        loginTF.delegate = self
-//        passwordTF.delegate = self
         
     }
 
